@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+#banner{
+    width: 100%
+}
+
+.principal{
+    background: #ffffff;
+}
+
+h1 { 
+    text-align:center;
+    color:aliceblue
+}
+
+p {
+    text-align:center;
+    font-size: 30px;
+}
+
+#missao {
+    font-size: 30px;
+}
+
+em strong {
+    color:rgb(252, 249, 249);
+}
+
+.itens {
+    font-style: italic;
+    font-size: 25px;
+}
+
+.beneficios{
+    background:rgb(255, 255, 255)
+} 
+
+h2 {
+    text-align: center;
+}
